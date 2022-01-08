@@ -35,6 +35,7 @@ I'm an aspiring computer scientist and I'm currently looking for a relevant posi
 
 ### Connect with me:
 
+<br />
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"/>](https://github.com/georgipetrov98) 
 [<img align="left"  width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>](https://georgipetrov98.github.io/#/) 

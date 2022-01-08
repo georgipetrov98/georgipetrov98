@@ -34,15 +34,15 @@ I'm an aspiring computer scientist and I'm currently looking for a relevant posi
 
 ### Connect with me:
 
-[<img align="left"  width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://github.com/georgipetrov98) 
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"/>](https://github.com/georgipetrov98) 
+[<img align="left"  width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>]
+(https://georgipetrov98.github.io/#/) 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+(https://www.linkedin.com/in/george-petrov-b571b31a1//)
 
-[<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width="22px">](https://github.com/georgipetrov98)  
-[<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width="22px">](https://www.linkedin.com/in/george-petrov-b571b31a1//)  
-[<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' width="22px">](https://georgipetrov98.github.io/#/)  
+[<img align="left" src='' alt='github' width="22px">](https://github.com/georgipetrov98)  
+[<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width="22px">]  
+[<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' width="22px">] 
 
 <br/>
 

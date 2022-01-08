@@ -11,7 +11,6 @@ I'm an aspiring computer scientist and I'm currently looking for a relevant posi
 - 💬 Ask me about Anything 
 - 📫 How to reach me: https://georgipetrov98.github.io/#/ 
 - ⚡ Fun fact: I like competitive games 
-<br/>
 
 ### Languages and Tools:
 

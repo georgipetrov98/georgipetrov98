@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Georgi
 #### I am recent computer science graduate
-![I am recent computer science graduate](https://ar)
+![I am recent computer science graduate](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm an aspiring computer scientist and I'm currently looking for a relevant position that would develop my skillset even further.
 

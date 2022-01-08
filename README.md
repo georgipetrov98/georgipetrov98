@@ -9,7 +9,6 @@ I'm an aspiring computer scientist and I'm currently looking for a relevant posi
 - 👯 I’m looking to collaborate on small startup projects 
 - ✅ Goals for 2022: Contribute more to Open Source projects
 - 💬 Ask me about Anything 
-- 📫 How to reach me: https://georgipetrov98.github.io/#/ 
 - ⚡ Fun fact: I like competitive games 
 
 ### Languages and Tools:

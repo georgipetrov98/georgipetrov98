@@ -34,7 +34,9 @@ I'm an aspiring computer scientist and I'm currently looking for a relevant posi
 
 ### Connect with me:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width="22px">](https://github.com/georgipetrov98)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width="22px">](https://www.linkedin.com/in/george-petrov-b571b31a1//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' width="22px">](https://georgipetrov98.github.io/#/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width="22px">](https://github.com/georgipetrov98)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width="22px">](https://www.linkedin.com/in/george-petrov-b571b31a1//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' width="22px">](https://georgipetrov98.github.io/#/)  
 
 <br/>
 

@@ -39,10 +39,6 @@ I'm an aspiring computer scientist and I'm currently looking for a relevant posi
 <img align="left" alt="Csharp" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="RaspberryPi" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
 <img align="left" alt="Php" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<link rel="stylesheet" href="">
-<link rel="stylesheet" href="">
-<link rel="stylesheet" href="">
-
 
 ### Connect with me:
 

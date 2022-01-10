@@ -3,7 +3,7 @@
 
 ![I am recent computer science graduate](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)-->
 
-[![website](https://img.shields.io/badge/georgipetrov98.github.io-UP-green)](https://georgipetrov98.github.io/#/)
+[![website](https://img.shields.io/website?label=georgipetrov98.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://georgipetrov98.github.io/#/)
 
 I'm an aspiring computer scientist and I'm currently looking for a relevant position that would develop my skillset even further.
 

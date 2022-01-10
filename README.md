@@ -40,6 +40,8 @@ I'm an aspiring computer scientist and I'm currently looking for a relevant posi
 <img align="left" alt="RaspberryPi" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
 <img align="left" alt="Php" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 
+<br />
+
 ### Connect with me:
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"/>](https://github.com/georgipetrov98) 

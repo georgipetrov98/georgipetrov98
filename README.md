@@ -42,6 +42,7 @@ I'm an aspiring computer scientist and I'm currently looking for a relevant posi
 
 <br />
 <br />
+
 ### Connect with me:
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"/>](https://github.com/georgipetrov98) 

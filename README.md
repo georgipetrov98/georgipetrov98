@@ -3,6 +3,8 @@
 
 ![I am recent computer science graduate](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)-->
 
+[![website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://georgipetrov98.github.io/#/)
+
 I'm an aspiring computer scientist and I'm currently looking for a relevant position that would develop my skillset even further.
 
 - 🔭 I’m currently working on improving my socket.io project 

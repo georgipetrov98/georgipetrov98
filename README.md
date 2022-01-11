@@ -1,4 +1,12 @@
-< div align="center"> ### Hi there, my name is [Georgi][website]👋 </div>
+<div  align="center"> ### Hi there, my name is [Georgi][website]👋 </div>
+
+<div style="font-style: italic; text-align: center;" markdown="1">
+
+## Excerpts from Romeo and Juliet (arr. V. Borisovsky)
+### Sergei Prokofiev
+#### Timothy Ridout, viola ∙ Frank Dupree, piano
+
+</div>
 
 <!--#### I am recent computer science graduate
 

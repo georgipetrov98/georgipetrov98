@@ -1,4 +1,4 @@
-<p style="text-align: center" > ### Hi there, my name is [Georgi][website]👋 </p>
+### Hi there, my name is [Georgi][website]👋
 
 <!--#### I am recent computer science graduate
 

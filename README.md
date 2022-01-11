@@ -67,8 +67,7 @@ I'm an aspiring computer scientist that's currently looking for a relevant posit
 
 
 <details markdown="1"> <summary> 
-  
-  ### 📕 Favourite Blog Posts
+   ### 📕 Favourite Blog Posts
   
   </summary>
   

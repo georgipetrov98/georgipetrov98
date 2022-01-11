@@ -66,7 +66,7 @@ I'm an aspiring computer scientist that's currently looking for a relevant posit
 
 
 
-<details>
+<details markdown="1">
   <summary> ### 📕 Favourite Blog Posts</summary>
   
 <!-- BLOG-POST-LIST:START -->

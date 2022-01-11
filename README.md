@@ -3,8 +3,7 @@
 <div align="center" style="font-style: italic; text-align: center;" markdown="1">
 
 ### Hi there, my name is [Georgi][website]👋 
-### Sergei Prokofiev
-#### Timothy Ridout, viola ∙ Frank Dupree, piano
+
 
 </div>
 

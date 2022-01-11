@@ -8,8 +8,6 @@ I'm an aspiring computer scientist that's currently looking for a relevant posit
 
 </div>
 
-#### I am recent computer science graduate
-
 [![website](https://img.shields.io/website?label=georgipetrov98.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://georgipetrov98.github.io/#/)
 
 

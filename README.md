@@ -1,4 +1,3 @@
-![I am GitHub Readme Generator's creator](https://hdwallpaperim.com/wp-content/uploads/2017/08/22/147690-women-vashperado-belly-artwork-anime-video_games-88_Girl-drawing-futuristic-space-space_station-colorful-anime_girls-PlayStation_3-Space_Invaders-spaceship-zero_gravity-cockpit-controllers.jpg)
 
 
 <div align="center" markdown="1"> 
@@ -10,8 +9,6 @@ I'm an aspiring computer scientist that's currently looking for a relevant posit
 </div>
 
 #### I am recent computer science graduate
-
-[I am recent computer science graduate](https://hdwallpaperim.com/wp-content/uploads/2017/08/22/147690-women-vashperado-belly-artwork-anime-video_games-88_Girl-drawing-futuristic-space-space_station-colorful-anime_girls-PlayStation_3-Space_Invaders-spaceship-zero_gravity-cockpit-controllers.jpg)
 
 [![website](https://img.shields.io/website?label=georgipetrov98.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://georgipetrov98.github.io/#/)
 

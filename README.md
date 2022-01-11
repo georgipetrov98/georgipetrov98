@@ -1,9 +1,9 @@
-<div  align="center"> </div>
 
 <div align="center" markdown="1">
 
-### Hi there, my name is [Georgi][website]👋 
+## Hi there, my name is [Georgi][website]👋 
 
+# I'm an aspiring computer scientist that's currently looking for a relevant position that would develop my skillset even further.
 
 </div>
 
@@ -13,7 +13,7 @@
 
 [![website](https://img.shields.io/website?label=georgipetrov98.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://georgipetrov98.github.io/#/)
 
-## I'm an aspiring computer scientist that's currently looking for a relevant position that would develop my skillset even further.
+
 
 - 🔭 I’m currently working on improving my socket.io project 
 - 🌱 I’m currently learning Typescript and Node.js 

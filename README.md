@@ -65,9 +65,9 @@ I'm an aspiring computer scientist that's currently looking for a relevant posit
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=georgipetrov98&show_icons=true)  
 
 
-### 📕 Favourite Blog Posts
+
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary> ### 📕 Favourite Blog Posts</summary>
   
 <!-- BLOG-POST-LIST:START -->
 - [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)

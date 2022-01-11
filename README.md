@@ -1,5 +1,6 @@
 
-<div align="center" markdown="1"> ## Hi there, my name is [Georgi][website]👋 
+<div align="center" markdown="1"> 
+## Hi there, my name is [Georgi][website]👋 
 
 I'm an aspiring computer scientist that's currently looking for a relevant position that would develop my skillset even further.
 
@@ -65,7 +66,9 @@ I'm an aspiring computer scientist that's currently looking for a relevant posit
 
 
 <details markdown="1">
-  <summary> ### 📕 Favourite Blog Posts</summary>
+  <summary> 
+  ### 📕 Favourite Blog Posts
+  </summary>
   
 <!-- BLOG-POST-LIST:START -->
 - [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)

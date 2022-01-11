@@ -1,8 +1,5 @@
-<center>
-  
+
 ### Hi there, my name is [Georgi][website]👋
-  
-</center>
 <!--#### I am recent computer science graduate
 
 ![I am recent computer science graduate](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)-->

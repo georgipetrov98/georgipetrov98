@@ -1,6 +1,6 @@
 <div  align="center"> </div>
 
-<div align="center" style="font-style: italic; text-align: center;" markdown="1">
+<div align="center" markdown="1">
 
 ### Hi there, my name is [Georgi][website]👋 
 

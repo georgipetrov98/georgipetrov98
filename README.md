@@ -56,7 +56,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=georgipetrov98&show_icons=true)  
 
-<br />
 
 ### 📕 Favourite Blog Posts
 

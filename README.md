@@ -1,7 +1,5 @@
 
-<div align="center" markdown="1">
-
-## Hi there, my name is [Georgi][website]👋 
+<div align="center" markdown="1"> ## Hi there, my name is [Georgi][website]👋 
 
 I'm an aspiring computer scientist that's currently looking for a relevant position that would develop my skillset even further.
 

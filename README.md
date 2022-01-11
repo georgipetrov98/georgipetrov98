@@ -3,7 +3,7 @@
 
 ## Hi there, my name is [Georgi][website]👋 
 
-# I'm an aspiring computer scientist that's currently looking for a relevant position that would develop my skillset even further.
+I'm an aspiring computer scientist that's currently looking for a relevant position that would develop my skillset even further.
 
 </div>
 

@@ -56,4 +56,9 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=georgipetrov98&show_icons=true)  
 
+<br />
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 [website]: https://georgipetrov98.github.io/#/

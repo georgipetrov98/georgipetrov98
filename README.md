@@ -1,5 +1,4 @@
 
-![I am GitHub Readme Generator's creator](https://github.com/georgipetrov98/georgipetrov98/blob/main/Untitled%20design.png)
 
 <div align="center" markdown="1"> 
 

@@ -66,10 +66,7 @@ I'm an aspiring computer scientist that's currently looking for a relevant posit
 
 
 
-<details markdown="1"> <summary> 
-  <h2>📕 Favourite Blog Posts <h2>
-  
-  </summary>
+<details markdown="1"> <summary> <h2>📕 Favourite Blog Posts <h2> </summary>
   
 <!-- BLOG-POST-LIST:START -->
 - [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)

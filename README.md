@@ -1,8 +1,8 @@
-<div  align="center"> ### Hi there, my name is [Georgi][website]👋 </div>
+<div  align="center"> </div>
 
 <div style="font-style: italic; text-align: center;" markdown="1">
 
-## Excerpts from Romeo and Juliet (arr. V. Borisovsky)
+### Hi there, my name is [Georgi][website]👋 
 ### Sergei Prokofiev
 #### Timothy Ridout, viola ∙ Frank Dupree, piano
 

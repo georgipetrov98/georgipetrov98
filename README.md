@@ -60,9 +60,9 @@ I'm an aspiring computer scientist that's currently looking for a relevant posit
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgipetrov98&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgipetrov98&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=georgipetrov98&show_icons=true&theme=dark)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=georgipetrov98&show_icons=true&theme=gruvbox)  
 
 
 

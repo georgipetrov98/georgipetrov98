@@ -5,7 +5,7 @@
 
 [![website](https://img.shields.io/website?label=georgipetrov98.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://georgipetrov98.github.io/#/)
 
-I'm an aspiring computer scientist and I'm currently looking for a relevant position that would develop my skillset even further.
+## I'm an aspiring computer scientist and I'm currently looking for a relevant position that would develop my skillset even further.
 
 - 🔭 I’m currently working on improving my socket.io project 
 - 🌱 I’m currently learning Typescript and Node.js 

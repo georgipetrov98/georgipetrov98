@@ -15,7 +15,7 @@ I'm an aspiring computer scientist that's currently looking for a relevant posit
 - 🔭 I’m currently working on improving my socket.io project 
 - 🌱 I’m currently learning Typescript and Node.js 
 - 👯 I’m looking to collaborate on small startup projects 
-- ✅ Goals for 2022: Contribute more to Open Source projects
+- ✅ Goals for 2022: Contribute to Open Source projects
 - 💬 Ask me about anything 
 - ⚡ Fun fact: I like competitive games 
 

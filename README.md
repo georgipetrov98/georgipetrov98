@@ -50,10 +50,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-orig
 ### Connect with me:
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />](https://github.com/georgipetrov98) 
-[<img align="left"  width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>](https://georgipetrov98.github.io/#/) 
+[<img align="left"  width="22px" src="./globe.jpeg"/>](https://georgipetrov98.github.io/#/) 
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>](https://www.linkedin.com/in/george-petrov-b571b31a1/)
-<img align="left" width="22px" src="./globe.jpeg"/>
-<img fill="#fffff" align="left" width="22px" src="./express.svg"/>
 
 <br />
 <br />

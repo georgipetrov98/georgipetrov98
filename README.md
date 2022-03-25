@@ -18,7 +18,7 @@ I'm an aspiring computer scientist currently working as a juniour developer.
 - ⚡ Fun fact: I like competitive games 
 
 ### Languages and Tools:
-
+<link href='https://css.gg/add-r.css' rel='stylesheet'>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt= "Angular" width="26px" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />          

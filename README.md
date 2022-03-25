@@ -54,7 +54,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-orig
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>](https://www.linkedin.com/in/george-petrov-b571b31a1/)
 
 
-<img align="left" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 
 
 <br />

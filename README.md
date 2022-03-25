@@ -4,7 +4,7 @@
 
 ## Hi there, my name is [Georgi][website]👋 
 
-I'm an aspiring computer scientist that's currently looking for a relevant position that would develop my skillset even further.
+I'm an aspiring computer scientist currently working as a juniour developer.
 
 </div>
 
@@ -12,8 +12,8 @@ I'm an aspiring computer scientist that's currently looking for a relevant posit
 
 
 
-- 🔭 I’m currently working on improving my socket.io project 
-- 🌱 I’m currently learning Typescript and Node.js 
+- 🔭 I’m currently working on Angular projects.
+- 🌱 I’m currently learning Angular.
 - 👯 I’m looking to collaborate on small startup projects 
 - ✅ Goals for 2022: Contribute to Open Source projects
 - 💬 Ask me about anything 
@@ -22,6 +22,8 @@ I'm an aspiring computer scientist that's currently looking for a relevant posit
 ### Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt= "Angular" width="26px" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />          
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />

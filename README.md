@@ -10,6 +10,8 @@ I'm an aspiring computer scientist currently working as a juniour developer.
 
 [![website](https://img.shields.io/website?label=georgipetrov98.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://georgipetrov98.github.io/#/)
 
+[![something](https://github.com/georgipetrov98/georgipetrov98/blob/main/136-1363736_express-js-icon-png-transparent-png.png)]
+
 - 🔭 I’m currently working on Angular projects.
 - 🌱 I’m currently learning Angular.
 - 👯 I’m looking to collaborate on small startup projects 

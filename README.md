@@ -52,9 +52,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-orig
 
 ### Connect with me:
 
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"/>](https://github.com/georgipetrov98) 
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />](https://github.com/georgipetrov98) 
 [<img align="left"  width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>](https://georgipetrov98.github.io/#/) 
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/george-petrov-b571b31a1//)
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg "/>](https://www.linkedin.com/in/george-petrov-b571b31a1//)
 
 <br />
 <br />

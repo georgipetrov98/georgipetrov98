@@ -71,6 +71,3 @@ A passionate developer with 3 years of experience building web apps and solving 
 
 [website]: https://georgipetrov98.github.io/#/  
 
----
-
-This update keeps things approachable yet highlights your growth and experience.

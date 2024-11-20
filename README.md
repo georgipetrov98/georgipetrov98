@@ -52,7 +52,7 @@ A passionate developer with 3 years of experience building web apps and solving 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgipetrov98&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=georgipetrov98&show_icons=true&count_private=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=georgipetrov98&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
 
 ---
 

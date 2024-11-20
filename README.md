@@ -13,7 +13,7 @@ A passionate developer with 3 years of experience building web apps and solving 
 - 🌱 Always learning something new—recently diving deeper into **RxJS** and **state management**.  
 - 👯 Open to collaborating on **startup ideas** and **open source contributions**.  
 - ✅ Goals for this year: Keep leveling up and contribute to impactful projects.  
-- ⚡ Fun fact: I’m super competitive in games—ping pong or Valorant, let’s go!  
+- ⚡ Fun fact: I’m super competitive in games—ping pong or CS, let’s go!  
 
 ---
 
@@ -40,9 +40,12 @@ A passionate developer with 3 years of experience building web apps and solving 
 ---
 
 ### Connect with me:  
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />](https://github.com/georgipetrov98)  
-[<img align="left" width="22px" src="./globe.jpeg"/>](https://georgipetrov98.github.io/#/)  
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>](https://www.linkedin.com/in/george-petrov-b571b31a1/)  
+<img align="center" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> GitHub
+
+<img align="center" alt="Portfolio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" /> Portfolio
+
+<img align="center" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> LinkedIn
+
 
 <br />  
 <br />  
